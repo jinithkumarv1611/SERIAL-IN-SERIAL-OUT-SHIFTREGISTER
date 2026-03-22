@@ -68,4 +68,6 @@ endmodule
 
 <img width="1917" height="1020" alt="Waveform photo" src="https://github.com/user-attachments/assets/b214e88a-8831-44d6-babd-748127ed63cb" />
 
-**RESULTS**
+**RESULT**
+
+Thus to implement SISO Shift Register using verilog and validating their functionality using their functional tables done successfully.
